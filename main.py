@@ -84,8 +84,7 @@ async def embed(ctx):
     await ctx.send(embed = embed)
 
 
-print("This is a test")
 
-clients.run('MTEzMjQ0MDQxNDQ1Mjk5NDA2OA.G_PBC4.7BGlBpLutaTbRLAyZY8MBypBUCLVABwgrqd34k')
+clients.run('TOKEN')
 
 
